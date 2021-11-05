@@ -7,5 +7,7 @@ ren *.bmp *.jpg
 
 ren *.* *.mp3
 
+위의 명령어를 임시 txt 파일에 적은 후 .bat 파일로 확장자를 변경하여 실행하면 된다.
+
 https://blog.naver.com/PostView.nhn?blogId=sprixt&logNo=220999585311&categoryNo=1&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
 
