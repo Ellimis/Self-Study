@@ -1,0 +1,11 @@
+
+폴더 내 모든 bmp파일의 확장자를 jpg로 바꾸고싶다면
+
+ren *.bmp *.jpg
+
+폴더 내 모든 파일의 확장자를 mp3로 바꾸고싶다면
+
+ren *.* *.mp3
+
+https://blog.naver.com/PostView.nhn?blogId=sprixt&logNo=220999585311&categoryNo=1&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+
