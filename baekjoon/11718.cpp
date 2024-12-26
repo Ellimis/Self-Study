@@ -16,3 +16,7 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11718
+
+
+// when i use "cin >> s" instead "getline(cin, s)" in while condition, 
+// then fail because "cin" reads blank as a NULL or "\n", so result is wrong.
