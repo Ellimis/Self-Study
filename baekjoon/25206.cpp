@@ -56,6 +56,8 @@ int main()
     cout.precision(6);
     cout << sum/total;
 
+    //cout.unsetf(ios::fixed);
+
     return 0;
 }
 
